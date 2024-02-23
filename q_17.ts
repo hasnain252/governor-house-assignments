@@ -1,0 +1,1 @@
+var places= ["America", "Paris", "Japan", "Russia", "Indonesia"]
